@@ -1,9 +1,5 @@
-# Maar10Dev - Cloud-Native Software Engineer
+## Security Engineer | Identity Security | .NET Developer
 
-Hello there! 👋 I'm Maarten, a seasoned application developer specializing in the development, maintenance, and monitoring of secure cloud applications. Additionally, I'm deeply engaged in the world of cybersecurity, focusing on threat hunting and digital forensics.
+I'm a software engineer with a strong focus on identity security, secure application development, and modern .NET technologies.
 
-## About Me
-
-- 💼 I work as a freelance Cloud-Native Software Engineer.
-- 🔒 My passion lies in building secure and robust cloud applications.
-- 🕵️ I actively explore the world of cybersecurity, with a focus on threat hunting and digital forensics.
+My work combines security engineering with software development, focusing on building secure, reliable, and maintainable solutions.
